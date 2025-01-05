@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on mc bots
+- 🌱 I’m currently learning new web dev stuff
+- ⚡ Fun fact: I love cookies
 <!--
 **CookieTriste/CookieTriste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
